@@ -3,7 +3,7 @@
 //HW43 -- This or That or Fourteen Other Things
 //2015-12-08
 
-public class Hexadecimal {
+public class Hexadecimal implements Comparable{
 
     private int _decNum;
     private String _hexNum;
